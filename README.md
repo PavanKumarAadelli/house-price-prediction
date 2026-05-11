@@ -103,11 +103,11 @@ The application will open in your default web browser at `http://localhost:8501`
 
 ```bash
 house-price-prediction/
-├── app.py                  # Main Streamlit application file
-├── house_price_model.pkl   # Serialized trained model (Joblib)
-├── requirements.txt         # Python dependencies
-├── README.md               # This file
-└── Data/                   # (Optional) Raw dataset
+├── app.py                 
+├── house_price_model.pkl   
+├── requirements.txt        
+├── README.md               
+└── Data/                   
     └── Bengaluru_House_Data.csv
 ```
 
